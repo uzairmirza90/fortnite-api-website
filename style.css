@@ -46,6 +46,10 @@
     height: 150px;
 }
 
+button {
+    background-color: red;
+}
+
 @media only screen and (max-width: 370px) {
     .navbar {
         height: 150px;
